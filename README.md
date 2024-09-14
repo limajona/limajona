@@ -9,7 +9,16 @@ I am currently pursuing a Bachelor's Degree in Computer Science at Michigan Stat
 Introduction to Git and GitHub (2024)                                                   Machine Learning Specialization (2024)     
 Online Course - Google                                                                  Online Course - Stanford and Deeplearning.AI
 
-- 🌱 I’m currently learning more about Computer Organization and Architecture, Cloud Computing nd Data handling, and also Software Engineering.
+
+#### What am I doing right now:
+
+- 🌱 I’m currently learning more about:
+    -  Computer Organization and Architecture.
+    -  Cloud Computing nd Data handling.
+    -  Data Structure and Algorithms.
+    -  Software Engineering.
+ 
+    
 - 📫 How to reach me: limajona@msu.edu 
 
 
