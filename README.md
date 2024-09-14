@@ -4,7 +4,12 @@ Hi there, I'm Jonathan!
 
 I am currently pursuing a Bachelor's Degree in Computer Science at Michigan State University. I am deeply interested in the fields of Machine Learning and Cybersecurity due to the captivating blend of problem-solving and innovation it offers. The prospect of leveraging advanced algorithms to develop intelligent defenses and adaptive security measures likely fuels my passion for this field.
 
-- 🌱 I’m currently learning Machine Learning via a course at Stanford 
+#### Certificates:
+
+Introduction to Git and GitHub (2024)                                                   Machine Learning Specialization (2024)     
+Online Course - Google                                                                  Online Course - Stanford and Deeplearning.AI
+
+- 🌱 I’m currently learning more about Computer Organization and Architecture, Cloud Computing nd Data handling, and also Software Engineering.
 - 📫 How to reach me: limajona@msu.edu 
 
 
