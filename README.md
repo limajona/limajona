@@ -1,7 +1,5 @@
 Hi there, I'm Jonathan!
 
-![Banner](https://github.com/limajona/limajona/assets/143369971/f9da6765-535b-4d75-b7f3-fb533e0eb5c2)
-
 I am currently pursuing a Bachelor's Degree in Computer Science at Michigan State University. I am deeply interested in the fields of Machine Learning and Cybersecurity due to the captivating blend of problem-solving and innovation it offers. The prospect of leveraging advanced algorithms to develop intelligent defenses and adaptive security measures likely fuels my passion for this field.
 
 #### Certificates:
@@ -13,10 +11,8 @@ Online Course - Google                                                          
 #### What am I doing right now:
 
 - 🌱 I’m currently learning more about:
-    -  Computer Organization and Architecture.
-    -  Cloud Computing nd Data handling.
-    -  Data Structure and Algorithms.
-    -  Software Engineering.
+    -  Parallel Programming.
+    -  Autonomous Vehicles.
  
     
 - 📫 How to reach me: limajona@msu.edu 
