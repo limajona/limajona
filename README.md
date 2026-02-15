@@ -10,11 +10,7 @@ Online Course - Google                                                          
 
 #### What am I doing right now:
 
-- 🌱 I’m currently learning more about:
-    -  Parallel Programming.
-    -  Autonomous Vehicles.
- 
-    
+- Co-founder at Mount Capital.
 - 📫 How to reach me: limajona@msu.edu 
 
 
